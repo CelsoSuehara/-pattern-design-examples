@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonMultiThread", "SingletonMultiThread\SingletonMultiThread.csproj", "{57DEA01C-2D15-48DD-B758-2F76D43681D1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Criacionais", "1.Criacionais", "{92EAEFCD-06F1-4711-B966-485B5BF513CE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Criacionais", "1. Criacionais", "{92EAEFCD-06F1-4711-B966-485B5BF513CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
